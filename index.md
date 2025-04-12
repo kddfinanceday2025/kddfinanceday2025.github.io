@@ -28,7 +28,7 @@ organizers_row_first:
   - image_path: assets/images/GregMori.jpeg
     alt: "Greg Mori"
     title: "Greg Mori"
-    excerpt: "Fellow, RBC Brandies/Simon Fraser University"
+    excerpt: "Fellow, RBC Borealis Adjunct Professor at Simon Fraser University"
     url: "https://www.linkedin.com/in/greg-mori-5445b36"
     btn_label: "Homepage"
     btn_class: "btn--primary"
