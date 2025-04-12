@@ -16,21 +16,48 @@ organizers_row_first:
     url: "https://web.njit.edu/~gwang/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-    #&#128279
-  - image_path: assets/images/daniel.png
-    alt: "Daniel Borrajo"
-    title: "Daniel Borrajo"
+
+  - image_path: assets/images/QiangYang.png
+    alt: "Qiang Yang"
+    title: "Qiang Yang"
     excerpt: |
-         Executive Director, J.P. Morgan AI Research 
-         Professor at Universidad Carlos III de Madrid   
-    url: "http://www.plg.inf.uc3m.es/~dborrajo/"
+        Chief AI officer of WeBank
+        Professor of Engineering Hong Kong University of Science and Technology      
+    url: "https://www.swissre.com/profile/Qiang_Yang/ep_1a4fce"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/GregMori.jpeg
+    alt: "Greg Mori"
+    title: "Greg Mori"
+    excerpt: |
+        Fellow, RBC Brandies/Simon Fraser University
+    url: "https://www.linkedin.com/in/greg-mori-5445b36"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+  
+  - image_path: assets/images/TuckerBalch.png
+    alt: "Tucker Balch"
+    title: "Tucker Balch"
+    excerpt: |
+        Professor in the Practice and Research of Finance at Emory University
+    url: "https://goizueta.emory.edu/faculty/profiles/tucker-balch"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/TuckerBalch.png
+    alt: "Lingshuo Liu"
+    title: "Lingshuo Liu"
+    excerpt: |
+        CTO, EFund
+    url: "#"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
 organizers_row_second:
-  - image_path: assets/images/junyi_photo.jpg
-    alt: "Junyi Ye"
-    title: "Junyi Ye"
+  - image_path: assets/images/JianyiYang.jpg
+    alt: "Jianyi Yang"
+    title: "Jianyi Yang"
     excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
     btn_label: "Homepage"
     btn_class: "btn--primary"
