@@ -2,12 +2,14 @@
 	@media (min-width: 37.5em) {
 		.feature__wrapper {
 			display: flex;
+			flex-wrap: wrap;
 		}
 
 		.feature__item {
 			margin: 0 0 0 1%;
 			float: none;
 			max-width: 25%;
+			flex: 1 0 21%;
 		}
 	}
 	
@@ -34,12 +36,14 @@
 	@media (min-width: 37.5em) {
 		.feature__wrapper {
 			display: flex;
+			flex-wrap: wrap;
 		}
 
 		.feature__item {
 			margin: 0 0 0 1%;
 			float: none;
 			max-width: 25%;
+			flex: 1 0 21%;
 		}
 	}
 	
