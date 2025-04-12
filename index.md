@@ -12,7 +12,7 @@ organizers_row_first:
   - image_path: assets/images/grace.jpg
     alt: "Guiling (Grace) Wang"
     title: "Guiling (Grace) Wang"
-    excerpt: "Distinguished Professor and Associate Dean for Research, New Jersey Institute of Technology"
+    excerpt: "Distinguished Professor at New Jersey Institute of Technology"
     url: "https://web.njit.edu/~gwang/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
@@ -20,9 +20,7 @@ organizers_row_first:
   - image_path: assets/images/QiangYang.png
     alt: "Qiang Yang"
     title: "Qiang Yang"
-    excerpt: |
-        Chief AI officer of WeBank
-        Professor of Engineering Hong Kong University of Science and Technology      
+    excerpt: "Chief AI officer of WeBank Professor of Engineering Hong Kong University"    
     url: "https://www.swissre.com/profile/Qiang_Yang/ep_1a4fce"
     btn_label: "Homepage"
     btn_class: "btn--primary"
@@ -30,8 +28,7 @@ organizers_row_first:
   - image_path: assets/images/GregMori.jpeg
     alt: "Greg Mori"
     title: "Greg Mori"
-    excerpt: |
-        Fellow, RBC Brandies/Simon Fraser University
+    excerpt: "Fellow, RBC Brandies/Simon Fraser University"
     url: "https://www.linkedin.com/in/greg-mori-5445b36"
     btn_label: "Homepage"
     btn_class: "btn--primary"
@@ -39,8 +36,7 @@ organizers_row_first:
   - image_path: assets/images/TuckerBalch.png
     alt: "Tucker Balch"
     title: "Tucker Balch"
-    excerpt: |
-        Professor in the Practice and Research of Finance at Emory University
+    excerpt: "Professor in the Practice and Research of Finance at Emory University"
     url: "https://goizueta.emory.edu/faculty/profiles/tucker-balch"
     btn_label: "Homepage"
     btn_class: "btn--primary"
