@@ -83,8 +83,4 @@ Join us at KDD Finance Day 2025 on August 3, 2025, in Toronto, Canada. This even
 
 {% include feature_row id="organizers_row_second" %}
 
-
-## Sponsorship
-
-{% include feature_row id="sponsorship" %}
 </section>
