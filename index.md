@@ -41,12 +41,10 @@ organizers_row_first:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/TuckerBalch.png
+  - image_path: assets/images/Lingshuo.jpg
     alt: "Lingshuo Liu"
     title: "Lingshuo Liu"
-    excerpt: |
-        CTO, EFund
-    url: "#"
+    excerpt: "Cheif Information Officer, Head of Innovation Lab, E Fund Management Co,. LTD"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
@@ -55,15 +53,6 @@ organizers_row_second:
     alt: "Jianyi Yang"
     title: "Jianyi Yang"
     excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-    
-sponsorship:
-  - image_path: assets/images/bbva.png
-    alt: "Banco Bilbao Vizcaya Argentaria (BBVA)"
-    title: "Banco Bilbao Vizcaya Argentaria (BBVA)"
-    excerpt: ""
-    url: "https://www.bbva.com/en/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
     
