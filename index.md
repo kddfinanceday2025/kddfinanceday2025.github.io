@@ -60,7 +60,7 @@ organizers_row_second:
 <br/>
 ## About
 
-Join us at KDD Finance Day 2025 on August 3, 2025, in Toronto, Canada. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. <!--Our esteemed lineup of speakers are from renowned institutions like Stanford and UCLA, along with industry leaders such as J.P.Morgan and Blackrock. Join us and contribute diverse perspectives to this engaging event! We will be in Room **Grand A**.-->
+Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. <!--Our esteemed lineup of speakers are from renowned institutions like Stanford and UCLA, along with industry leaders such as J.P.Morgan and Blackrock. Join us and contribute diverse perspectives to this engaging event! We will be in Room **Grand A**.-->
 
 
 <!--## News
