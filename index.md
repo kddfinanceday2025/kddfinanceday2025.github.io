@@ -42,9 +42,9 @@ organizers_row_first:
     btn_class: "btn--primary"
 
   - image_path: assets/images/Lingshuo.jpg
-    alt: "Lingshuo Liu"
-    title: "Lingshuo Liu"
-    excerpt: "Cheif Information Officer, Head of Innovation Lab, E Fund Management Co,. LTD"
+    alt: "Shuoling Liu"
+    title: "Shuoling Liu"
+    excerpt: "Chief Information Officer, Head of Innovation Lab, E Fund Management Co,. LTD"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
