@@ -79,6 +79,14 @@ Edward:
     excerpt: |
         Director of Emerging AI, Booz Allen Hamilton
 
+Camilo:
+  - image_path: assets/images/Camilo.png
+    alt: "Camilo Ortiz Diaz"
+    title: "Camilo Ortiz Diaz"
+    url: "https://www.linkedin.com/in/camiort/"
+    excerpt: |
+        Manager at AI Finance, Bloomberg
+
 ---
 <br/>
 <section class="organizers" markdown="1">
@@ -90,6 +98,7 @@ Edward:
 {% include feature_row id="Qiaozhu" type="left" %}
 {% include feature_row id="Pedro" type="left" %}
 {% include feature_row id="Yanshuai" type="left" %}
+{% include feature_row id="Camilo" type="left" %}
 {% include feature_row id="Sohaib" type="left" %}
 {% include feature_row id="Linbo" type="left" %}
 {% include feature_row id="Edward" type="left" %}
