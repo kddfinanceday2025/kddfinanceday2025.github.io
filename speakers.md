@@ -80,6 +80,9 @@ Edward:
         Director of Emerging AI, Booz Allen Hamilton
 
 ---
+<br/>
+<section class="organizers" markdown="1">
+
 ### Invited Speakers
 {% include feature_row id="David" type="left" %}
 {% include feature_row id="Chenxi" type="left" %}
@@ -90,5 +93,7 @@ Edward:
 {% include feature_row id="Sohaib" type="left" %}
 {% include feature_row id="Linbo" type="left" %}
 {% include feature_row id="Edward" type="left" %}
+
+</section>
 
 
