@@ -89,8 +89,8 @@ Camilo:
 
 Rama:
   - image_path: assets/images/Rama.png
-    alt: "CRama Akkiraju"
-    title: "CRama Akkiraju"
+    alt: "Rama Akkiraju"
+    title: "Rama Akkiraju"
     url: "https://www.linkedin.com/in/ramaakkiraju/"
     excerpt: |
         VP AI/ML for IT, NVIDIA
