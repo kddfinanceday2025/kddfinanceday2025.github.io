@@ -87,15 +87,23 @@ Camilo:
     excerpt: |
         Manager at AI Finance, Bloomberg
 
+Rama:
+  - image_path: assets/images/Rama.png
+    alt: "CRama Akkiraju"
+    title: "CRama Akkiraju"
+    url: "https://www.linkedin.com/in/ramaakkiraju/"
+    excerpt: |
+        VP AI/ML for IT, NVIDIA
+
 ---
-KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
+KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
 
 
 <table class="tg">
 <tbody>
     <tr>
         <th class="tg-feht">9:30 AM</th>
-        <th class="tg-feht">10:00 AM</th>
+        <th class="tg-feht">9:50 AM</th>
         <th class="tg-feht">Coffee</th>
         <th class="tg-feht"></th>
     </tr>
@@ -103,7 +111,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
         <th class="tg-feht">9:50 AM</th>
         <th class="tg-feht">10:00 AM</th>
         <th class="tg-feht">Opening Remarks</th>
-        <th class="tg-feht"><a href="https://web.njit.edu/~gwang/">Grace Wang</a> (NJIT)</th>
+        <th class="tg-feht"></th>
     </tr>
     <tr>
         <td class="tg-73oq">10:00 AM</td>
@@ -122,6 +130,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
         <a href="https://www.si.umich.edu/people/qiaozhu-mei">Qiaozhu Mei</a> (UMichigan)
         <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: AI Behavioral Science: use AI to decipher motivations behind human behavior</em>
         <br><a href="https://theorg.com/org/rbc-borealis/org-chart/yanshuai-cao">Yanshuai Cao</a> (RBC Borealis)
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Technical challenges and opportunities in AI for financial services</em>
         <br><a href="https://www.linkedin.com/in/ramaakkiraju/">Rama Akkiraju</a> (NVIDIA)
         </td>
     </tr>
@@ -145,7 +154,9 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
         <td class="tg-73oq">Invited Talks</td>
         <td class="tg-73oq">
         <a href="https://theorg.com/org/rbc-borealis/org-chart/sohaib-perwaiz">Sohaib Perwaiz</a> (RBC Borealis)
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Scaling AI solution development in enterprise banking context</em>
         <br><a href="https://www.linkedin.com/in/igor-melnyk-79a29953/">Igor Melnyk</a> (Capital One)
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Modeling Sequence Data in Financial Services</em>
         <br><a href="https://www.statistics.utoronto.ca/people/directories/all-faculty/linbo-wang">Linbo Wang</a> (UToronto)
         </td>
     </tr>
@@ -179,6 +190,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 {% include feature_row id="Qiaozhu" type="left" %}
 {% include feature_row id="Pedro" type="left" %}
 {% include feature_row id="Yanshuai" type="left" %}
+{% include feature_row id="Rama" type="left" %}
 {% include feature_row id="Camilo" type="left" %}
 {% include feature_row id="Sohaib" type="left" %}
 {% include feature_row id="Linbo" type="left" %}
