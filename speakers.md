@@ -87,6 +87,14 @@ Camilo:
     excerpt: |
         Manager at AI Finance, Bloomberg
 
+Rama:
+  - image_path: assets/images/Rama.png
+    alt: "Rama Akkiraju"
+    title: "Rama Akkiraju"
+    url: "https://www.linkedin.com/in/ramaakkiraju/"
+    excerpt: |
+        VP AI/ML for IT, NVIDIA
+
 ---
 <br/>
 <section class="organizers" markdown="1">
@@ -98,6 +106,7 @@ Camilo:
 {% include feature_row id="Qiaozhu" type="left" %}
 {% include feature_row id="Pedro" type="left" %}
 {% include feature_row id="Yanshuai" type="left" %}
+{% include feature_row id="Rama" type="left" %}
 {% include feature_row id="Camilo" type="left" %}
 {% include feature_row id="Sohaib" type="left" %}
 {% include feature_row id="Linbo" type="left" %}
