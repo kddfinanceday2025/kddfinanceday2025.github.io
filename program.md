@@ -146,6 +146,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         <td class="tg-73oq">Featured Talk</td>
         <td class="tg-73oq">
         <b><a href="https://www.linkedin.com/in/chenxiwang88/">Chenxi Wang</a> (Rain Capital)</b>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em><b>Investment trends in AI and Cybersecurity: How investors assess today's AI deals </b></em>
         </td>
     </tr>
     <tr>
