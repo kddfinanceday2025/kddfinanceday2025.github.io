@@ -1,10 +1,10 @@
 main:
-  - title: "About"
-    url: '#about'
-  # - title: "Call for Talks"
-    # url: 'call'
   - title: "Program"
     url: 'program'
+  # - title: "Call for Talks"
+    # url: 'call'
+  - title: "About"
+    url: '#about'
   - title: "Speakers"
     url: 'speakers'
   - title: "Organizers"
