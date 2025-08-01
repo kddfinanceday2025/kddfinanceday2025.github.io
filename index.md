@@ -84,3 +84,7 @@ Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This even
 {% include feature_row id="organizers_row_second" %}
 
 </section>
+
+## The Venue
+
+Room 716 A, Metro Toronto Convention Centre South Building Level 700
