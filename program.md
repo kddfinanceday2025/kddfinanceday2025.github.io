@@ -130,7 +130,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         <a href="https://www.si.umich.edu/people/qiaozhu-mei">Qiaozhu Mei</a> (UMichigan)
         <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: AI Behavioral Science: use AI to decipher motivations behind human behavior</em>
         <br><a href="https://theorg.com/org/rbc-borealis/org-chart/yanshuai-cao">Yanshuai Cao</a> (RBC Borealis)
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Technical challenges and opportunities in AI for financial services</em>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Modern challenges and opportunities in Financial AI: an Interpretability Lens</em>
         <br><a href="https://www.linkedin.com/in/ramaakkiraju/">Rama Akkiraju</a> (NVIDIA)
         </td>
     </tr>
@@ -159,6 +159,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         <br><a href="https://www.linkedin.com/in/igor-melnyk-79a29953/">Igor Melnyk</a> (Capital One)
         <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Modeling Sequence Data in Financial Services</em>
         <br><a href="https://www.statistics.utoronto.ca/people/directories/all-faculty/linbo-wang">Linbo Wang</a> (UToronto)
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Sparse Causal Learning: Challenges and Opportunities</em>
         </td>
     </tr>
     <tr>
@@ -173,6 +174,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         <td class="tg-73oq">Invited Talks</td>
         <td class="tg-73oq">
         <a href="https://economics.emory.edu/people/faculty/biography/sant-anna-pedro.html">Pedro Santanna</a> (Emory)
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Difference-in-Differences Designs: A Practitioner's Guide</em>
         <br><a href="https://www.linkedin.com/in/edward-raff-09992040/">Edward Raff</a> (Booz Allen Hamilton)
         <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Adversarial Machine Learning Attacks on Financial Reporting via Maximum Violated Multi-Objective Attack</em>
         </td>
