@@ -72,6 +72,9 @@ Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This even
 - February 2023: Dr. Manuela M. Veloso, Head of J.P.Morgan AI Research and esteemed member of NAE, accepts keynote speaker invitation.
 - February 2023: Grateful for sponsorship received from NEC Research.-->
 
+## The Venue
+
+Room 716 A<br>Metro Toronto Convention Centre South Building Level 700
 
 <section class="organizers" markdown="1">
 ## Organizers
@@ -84,7 +87,3 @@ Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This even
 {% include feature_row id="organizers_row_second" %}
 
 </section>
-
-## The Venue
-
-Room 716 A<br>Metro Toronto Convention Centre South Building Level 700
