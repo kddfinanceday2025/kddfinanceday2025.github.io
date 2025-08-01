@@ -8,6 +8,6 @@ main:
   - title: "Speakers"
     url: 'speakers'
   - title: "Organizers"
-    url: '#organizers'
+    url: 'about#organizers'
   # - title: "Tags"
   #   url: /tags/
