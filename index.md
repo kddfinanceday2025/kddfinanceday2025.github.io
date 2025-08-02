@@ -41,8 +41,8 @@ Qiaozhu:
 
 Pedro:
   - image_path: assets/images/Pedro.png
-    alt: "Pedro Sant'anna"
-    title: "Pedro Sant'anna"
+    alt: "Pedro Sant'Anna"
+    title: "Pedro Sant'Anna"
     url: "https://economics.emory.edu/people/faculty/biography/sant-anna-pedro.html"
     excerpt: |
         Associate Professor, Emory University
@@ -132,6 +132,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         <br><a href="https://theorg.com/org/rbc-borealis/org-chart/yanshuai-cao">Yanshuai Cao</a> (RBC Borealis)
         <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Modern challenges and opportunities in Financial AI: an Interpretability Lens</em>
         <br><a href="https://www.linkedin.com/in/ramaakkiraju/">Rama Akkiraju</a> (NVIDIA)
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Building Trustworthy Financial agents with Agentic AI</em>
         </td>
     </tr>
     <tr>
@@ -173,7 +174,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         <td class="tg-73oq">4:30 PM</td>
         <td class="tg-73oq">Invited Talks</td>
         <td class="tg-73oq">
-        <a href="https://economics.emory.edu/people/faculty/biography/sant-anna-pedro.html">Pedro Santanna</a> (Emory)
+        <a href="https://economics.emory.edu/people/faculty/biography/sant-anna-pedro.html">Pedro Sant'Anna</a> (Emory)
         <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Difference-in-Differences Designs: A Practitioner's Guide</em>
         <br><a href="https://www.linkedin.com/in/edward-raff-09992040/">Edward Raff</a> (Booz Allen Hamilton)
         <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Adversarial Machine Learning Attacks on Financial Reporting via Maximum Violated Multi-Objective Attack</em>
