@@ -119,7 +119,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         <td class="tg-73oq">Featured Talk</td>
         <td class="tg-73oq">
         <b><a href="https://www.linkedin.com/in/dr-david-rosenberg/">David Rosenberg</a> / <a href="https://www.linkedin.com/in/camiort/">Camilo Ortiz Diaz</a> (Bloomberg)</b>
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em><b>Title: No Trade, No Truth: The Evaluation Dilemma in Data-Driven Bond Pricing</b></em>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;<em><b>No Trade, No Truth: Data-Driven Bond Pricing in Practice</b></em>
         </td>
     </tr>
     <tr>
