@@ -55,22 +55,20 @@ organizers_row_second:
     excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
     btn_label: "Homepage"
     btn_class: "btn--primary"
+
+sponsorship:
+  - image_path: assets/images/Citadel.jpg
+    alt: ""
+    title: ""
+    excerpt: ""
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
     
 ---
 <br/>
 ## About
 
-Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. <!--Our esteemed lineup of speakers are from renowned institutions like Stanford and UCLA, along with industry leaders such as J.P.Morgan and Blackrock. Join us and contribute diverse perspectives to this engaging event! We will be in Room **Grand A**.-->
-
-
-<!--## News
-
-- July 2023: Dr. Susan Athey, renowned Economics of Technology Professor at Stanford University and first female winner of the John Bates Clark Medal, accepts keynote invitation.
-- June 2023: Congratulations to Finance Day travel award recipients: Brian Park@UCLA, Karen Dsouza@Purdue, and Carolyn Wang@NJIT.  
-- May 2023: Travel awards available for Finance Day attendees. Details found [here](https://kddfinanceday.github.io/travelAward/).
-- April 2023: Dr. Subbarao Kambhampati, ASU Professor, former AAAI president, and Fellow of ACM, IEEE, AAAI, and AAAS, will deliver lunchtime keynote speech.
-- February 2023: Dr. Manuela M. Veloso, Head of J.P.Morgan AI Research and esteemed member of NAE, accepts keynote speaker invitation.
-- February 2023: Grateful for sponsorship received from NEC Research.-->
+Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. 
 
 ## The Venue
 
@@ -85,5 +83,9 @@ Room 716 A<br>Metro Toronto Convention Centre South Building Level 700
 ## Web Chair
 
 {% include feature_row id="organizers_row_second" %}
+
+## Sponsorship
+
+{% include feature_row id="sponsorship" %}
 
 </section>
